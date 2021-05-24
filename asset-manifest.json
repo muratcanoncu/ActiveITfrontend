@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ActiveITfrontend/static/css/main.98178910.chunk.css",
+    "main.js": "/ActiveITfrontend/static/js/main.c7cdea8a.chunk.js",
+    "main.js.map": "/ActiveITfrontend/static/js/main.c7cdea8a.chunk.js.map",
+    "runtime-main.js": "/ActiveITfrontend/static/js/runtime-main.219d3427.js",
+    "runtime-main.js.map": "/ActiveITfrontend/static/js/runtime-main.219d3427.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/ActiveITfrontend/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.072da63e.chunk.js": "/ActiveITfrontend/static/js/2.072da63e.chunk.js",
+    "static/js/2.072da63e.chunk.js.map": "/ActiveITfrontend/static/js/2.072da63e.chunk.js.map",
+    "static/js/3.271a8546.chunk.js": "/ActiveITfrontend/static/js/3.271a8546.chunk.js",
+    "static/js/3.271a8546.chunk.js.map": "/ActiveITfrontend/static/js/3.271a8546.chunk.js.map",
+    "index.html": "/ActiveITfrontend/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/ActiveITfrontend/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.98178910.chunk.css.map": "/ActiveITfrontend/static/css/main.98178910.chunk.css.map",
+    "static/js/2.072da63e.chunk.js.LICENSE.txt": "/ActiveITfrontend/static/js/2.072da63e.chunk.js.LICENSE.txt",
+    "static/js/main.c7cdea8a.chunk.js.LICENSE.txt": "/ActiveITfrontend/static/js/main.c7cdea8a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ActiveITfrontend/static/media/HeaderBg.bf1ae12b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219d3427.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.072da63e.chunk.js",
+    "static/css/main.98178910.chunk.css",
+    "static/js/main.c7cdea8a.chunk.js"
+  ]
+}
