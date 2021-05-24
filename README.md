@@ -12,4 +12,4 @@
 
  [Please click for frontend source code](https://github.com/muratcanoncu/ActiveITfrontend/tree/master)
 
- [Please click for backend source code](https://github.com/muratcanoncu/Active-IT-Code-Challenge/tree/master/backend)
+ [Please click for backend source code](https://github.com/muratcanoncu/ActiveIT-Backend)
