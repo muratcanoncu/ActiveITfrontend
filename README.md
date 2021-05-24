@@ -1,7 +1,7 @@
 # Active IT Recruitment coding challenge
 
 ## Project for Acive IT Recruitment [Grocery Shop List App](https://muratcanoncu.github.io/ActiveITfrontend/#/).
-## https://muratcanoncu.github.io/ActiveITfrontend/#/
+
 
 * Add new grocery item to buy with importance value to list
 * You can delete items 
