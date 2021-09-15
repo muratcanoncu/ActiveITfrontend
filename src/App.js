@@ -61,33 +61,35 @@ function App() {
           <Route path="/" exact>
             <div className="headerBox">
               <h1 className="headerText">You Can Add a New Item to List</h1>
-              {successfullyAdded ? (
-                <div>
-                  {["success"].map((variant, idx) => (
-                    <Alert key={idx} variant={variant}>
-                      New item has been successfully added!
-                    </Alert>
-                  ))}
-                </div>
-              ) : null}
-              {successfullyRemoved ? (
-                <div>
-                  {["danger"].map((variant, idx) => (
-                    <Alert key={idx} variant={variant}>
-                      Item has been successfully deleted!
-                    </Alert>
-                  ))}
-                </div>
-              ) : null}
-              {successfullyUpdated ? (
-                <div>
-                  {["warning"].map((variant, idx) => (
-                    <Alert key={idx} variant={variant}>
-                      Item has been successfully updated!
-                    </Alert>
-                  ))}
-                </div>
-              ) : null}
+              <div style={{ height: "67px" }}>
+                {successfullyAdded ? (
+                  <div style={{ height: "85px" }}>
+                    {["success"].map((variant, idx) => (
+                      <Alert key={idx} variant={variant}>
+                        New item has been successfully added!
+                      </Alert>
+                    ))}
+                  </div>
+                ) : null}
+                {successfullyRemoved ? (
+                  <div>
+                    {["danger"].map((variant, idx) => (
+                      <Alert key={idx} variant={variant}>
+                        Item has been successfully deleted!
+                      </Alert>
+                    ))}
+                  </div>
+                ) : null}
+                {successfullyUpdated ? (
+                  <div>
+                    {["warning"].map((variant, idx) => (
+                      <Alert key={idx} variant={variant}>
+                        Item has been successfully updated!
+                      </Alert>
+                    ))}
+                  </div>
+                ) : null}
+              </div>
             </div>
             <div className="container-fluid">
               <div className="row">
